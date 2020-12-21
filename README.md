@@ -17,7 +17,7 @@ If you are under winzoz, type:
 
 <h2>Usage</h2>
 Just type on a terminal:
-<pre>python3 LikoV3.0</pre>
+<pre>python3 LikoV3.0.py</pre>
 
 Or double click on the program in winzoz.
 
