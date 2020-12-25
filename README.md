@@ -2,8 +2,7 @@
 A powerful HTTP flooding tool.
 You can choose if use proxy/socks to anonymize attack.
 
-Please suggest me some ideas, and report bugs!
-Thanks!
+Thank you! For Report Bug!
 
 
 <h2>Install dependencies</h2>
@@ -28,4 +27,4 @@ Just put your IPs or urls inside "ips.txt"
 <h2>Proxy generator</h2>
 If you want more proxies for your attacks, you can use LikoProxy or LikoSOCKS!
 
-You can found it here: https://github.com/liko4560/Proxy-liko4560 and here: https://github.com/liko4560/Proxy-liko4560.git
+You can found it here: https://github.com/liko4560/Proxy-liko4560
